@@ -1,0 +1,4 @@
+../Core/Src/w25q32.c:26:6:ReadID	16	static
+../Core/Src/w25q32.c:35:6:CheckBusy	16	static
+../Core/Src/w25q32.c:54:6:ReadData	32	static
+../Core/Src/w25q32.c:80:6:WriteData	136	static

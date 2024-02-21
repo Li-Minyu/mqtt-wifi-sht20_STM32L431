@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:123:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:136:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/freertos.c:150:6:MX_FREERTOS_Init	136	static
+../Core/Src/freertos.c:213:6:mqttTask06	72	static
+../Core/Src/freertos.c:279:6:ReceiveTask5	600	static
+../Core/Src/freertos.c:339:6:StartTask03	280	static
+../Core/Src/freertos.c:375:6:Callback01	24	static

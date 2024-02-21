@@ -1,0 +1,8 @@
+../Core/Src/can.c:33:6:MX_CAN1_Init	8	static
+../Core/Src/can.c:72:6:HAL_CAN_MspInit	48	static
+../Core/Src/can.c:107:6:HAL_CAN_MspDeInit	16	static
+../Core/Src/can.c:134:6:CAN_Filter_Config	48	static
+../Core/Src/can.c:155:5:CAN_Transmit_Msg	56	static
+../Core/Src/can.c:189:5:CAN_Receive_Msg	16	static
+../Core/Src/can.c:223:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../Core/Src/can.c:235:6:CAN_Receive_Buf	16	static

@@ -1,0 +1,2 @@
+../Core/Src/mqtt/MQTTUnsubscribeServer.c:34:5:MQTTDeserialize_unsubscribe	48	static
+../Core/Src/mqtt/MQTTUnsubscribeServer.c:76:5:MQTTSerialize_unsuback	40	static

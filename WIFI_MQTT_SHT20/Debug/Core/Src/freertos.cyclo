@@ -1,0 +1,7 @@
+freertos.c:123:6:vApplicationGetIdleTaskMemory	1
+freertos.c:136:6:vApplicationGetTimerTaskMemory	1
+freertos.c:150:6:MX_FREERTOS_Init	1
+freertos.c:213:6:mqttTask06	7
+freertos.c:279:6:ReceiveTask5	4
+freertos.c:339:6:StartTask03	4
+freertos.c:375:6:Callback01	2

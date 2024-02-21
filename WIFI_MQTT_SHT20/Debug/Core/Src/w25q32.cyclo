@@ -1,0 +1,4 @@
+w25q32.c:35:6:ReadID	1
+w25q32.c:44:6:CheckBusy	2
+w25q32.c:63:6:ReadData	1
+w25q32.c:89:6:WriteData	1

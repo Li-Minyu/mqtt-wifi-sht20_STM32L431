@@ -1,0 +1,5 @@
+../Core/Src/can1.c:34:6:MX_CAN1_Init	8	static
+../Core/Src/can1.c:87:6:HAL_CAN_MspInit	48	static
+../Core/Src/can1.c:120:6:HAL_CAN_MspDeInit	16	static
+../Core/Src/can1.c:146:9:CAN_Send_Msg	32	static
+../Core/Src/can1.c:162:6:HAL_CAN_RxFifo0MsgPendingCallback	64	static

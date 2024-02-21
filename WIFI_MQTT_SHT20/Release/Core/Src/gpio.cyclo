@@ -1,0 +1,5 @@
+gpio.c:42:6:MX_GPIO_Init	1
+gpio.c:104:6:turn_led	2
+gpio.c:116:6:blink_led.part.0	1
+gpio.c:116:6:blink_led	3
+gpio.c:129:6:HAL_GPIO_EXTI_Callback	4

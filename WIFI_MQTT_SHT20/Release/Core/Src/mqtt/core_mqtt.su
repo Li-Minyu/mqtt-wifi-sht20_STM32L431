@@ -1,0 +1,6 @@
+../Core/Src/mqtt/core_mqtt.c:10:5:mqtt_connect	392	static
+../Core/Src/mqtt/core_mqtt.c:72:5:mqtt_disconnect	1040	static
+../Core/Src/mqtt/core_mqtt.c:93:5:mqtt_subscribe_topic	328	static
+../Core/Src/mqtt/core_mqtt.c:137:5:mqtt_unsubscribe_topic	304	static
+../Core/Src/mqtt/core_mqtt.c:177:5:mqtt_publish	328	static
+../Core/Src/mqtt/core_mqtt.c:214:5:mqtt_pingreq	272	static

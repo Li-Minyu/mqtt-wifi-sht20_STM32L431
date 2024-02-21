@@ -1,0 +1,4 @@
+ds18b20.c:47:9:DS18B20_Reset	3
+ds18b20.c:81:6:DS18B20_WriteByte	3
+ds18b20.c:107:9:DS18B20_ReadByte	3
+ds18b20.c:164:5:DS18B20_SampleData	6

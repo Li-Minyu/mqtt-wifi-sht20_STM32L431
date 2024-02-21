@@ -1,0 +1,5 @@
+../Core/Src/mqtt/transport.c:8:5:transport_open	16	static
+../Core/Src/mqtt/transport.c:13:5:transport_close	8	static
+../Core/Src/mqtt/transport.c:18:5:transport_sendPacketBuffer	16	static
+../Core/Src/mqtt/transport.c:23:5:transport_getdata	24	static
+../Core/Src/mqtt/transport.c:54:6:transport_clearBuf	8	static

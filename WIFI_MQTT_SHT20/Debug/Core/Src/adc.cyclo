@@ -1,0 +1,4 @@
+adc.c:30:6:MX_ADC1_Init	4
+adc.c:92:6:HAL_ADC_MspInit	3
+adc.c:138:6:HAL_ADC_MspDeInit	2
+adc.c:169:5:adc_sample_lux_noisy	4

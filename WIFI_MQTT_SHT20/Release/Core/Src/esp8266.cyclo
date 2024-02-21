@@ -1,0 +1,11 @@
+esp8266.c:184:12:util_parser_ipaddr.constprop	4
+esp8266.c:25:5:send_atcmd	7
+esp8266.c:64:5:atcmd_send_data	6
+esp8266.c:100:5:esp8266_module_init	5
+esp8266.c:146:5:esp8266_join_network	6
+esp8266.c:216:5:esp8266_get_ipaddr	7
+esp8266.c:247:5:esp8266_ping_test	3
+esp8266.c:268:5:esp8266_sock_connect	4
+esp8266.c:291:5:esp8266_sock_disconnect	1
+esp8266.c:297:5:esp8266_sock_send	5
+esp8266.c:322:5:esp8266_sock_recv	7

@@ -1,0 +1,9 @@
+gpio_i2c.c:26:6:I2C_Init	1
+gpio_i2c.c:71:23:I2c_WaitWhileClockStretching	4
+gpio_i2c.c:82:9:I2c_StartCondition	2
+gpio_i2c.c:112:9:I2c_StopCondition	1
+gpio_i2c.c:139:9:I2c_WriteByte	6
+gpio_i2c.c:197:9:I2c_ReadByte	6
+gpio_i2c.c:248:9:I2c_SendAddress	1
+gpio_i2c.c:253:5:I2C_Master_Receive	5
+gpio_i2c.c:288:5:I2C_Master_Transmit	5

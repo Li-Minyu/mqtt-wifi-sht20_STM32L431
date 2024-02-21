@@ -1,0 +1,6 @@
+core_mqtt.c:9:5:mqtt_connect	12
+core_mqtt.c:70:5:mqtt_disconnect	3
+core_mqtt.c:91:5:mqtt_subscribe_topic	7
+core_mqtt.c:135:5:mqtt_unsubscribe_topic	6
+core_mqtt.c:175:5:mqtt_publish	5
+core_mqtt.c:212:5:mqtt_pingreq	4

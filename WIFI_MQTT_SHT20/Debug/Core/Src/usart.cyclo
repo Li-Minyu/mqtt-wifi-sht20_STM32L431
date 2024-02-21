@@ -1,0 +1,6 @@
+usart.c:48:6:MX_LPUART1_UART_Init	2
+usart.c:78:6:MX_USART1_UART_Init	2
+usart.c:110:6:MX_USART2_UART_Init	2
+usart.c:142:6:MX_USART3_UART_Init	2
+usart.c:172:6:HAL_UART_MspInit	9
+usart.c:327:6:HAL_UART_MspDeInit	5

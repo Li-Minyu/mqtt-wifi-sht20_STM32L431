@@ -1,0 +1,2 @@
+../Core/Src/mqtt/MQTTDeserializePublish.c:36:5:MQTTDeserialize_publish	48	static
+../Core/Src/mqtt/MQTTDeserializePublish.c:82:5:MQTTDeserialize_ack	48	static

@@ -1,0 +1,11 @@
+usart_port.c:23:5:__io_putchar	1
+usart_port.c:52:6:HAL_UART_RxCpltCallback	5
+usart_port.c:92:6:uart_forward_uart	3
+usart_port.c:108:6:uart1_Init	1
+usart_port.c:116:6:uart2_Init	1
+usart_port.c:125:6:uart3_Init	1
+usart_port.c:130:5:rs232_send	3
+usart_port.c:147:5:rs232_receive	3
+usart_port.c:173:6:rs485_Init	1
+usart_port.c:180:5:rs485_send	3
+usart_port.c:200:5:rs485_receive	3

@@ -1,0 +1,6 @@
+../Core/Src/ds18b20.c:47:9:DS18B20_Reset	56	static
+../Core/Src/ds18b20.c:84:6:DS18B20_WriteByte	40	static
+../Core/Src/ds18b20.c:110:9:DS18B20_ReadByte	72	static
+../Core/Src/ds18b20.c:142:19:DS18B20_Start_Convert	8	static
+../Core/Src/ds18b20.c:154:19:DS18B20_Start_Read	24	static
+../Core/Src/ds18b20.c:169:5:DS18B20_SampleData	32	static

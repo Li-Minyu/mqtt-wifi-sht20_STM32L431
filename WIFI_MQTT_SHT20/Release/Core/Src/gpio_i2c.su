@@ -1,0 +1,9 @@
+../Core/Src/gpio_i2c.c:71:23:I2c_WaitWhileClockStretching.constprop	16	static
+../Core/Src/gpio_i2c.c:26:6:I2C_Init	32	static
+../Core/Src/gpio_i2c.c:82:9:I2c_StartCondition	48	static
+../Core/Src/gpio_i2c.c:112:9:I2c_StopCondition	48	static
+../Core/Src/gpio_i2c.c:139:9:I2c_WriteByte	48	static
+../Core/Src/gpio_i2c.c:197:9:I2c_ReadByte	56	static
+../Core/Src/gpio_i2c.c:248:9:I2c_SendAddress	0	static
+../Core/Src/gpio_i2c.c:253:5:I2C_Master_Receive	32	static
+../Core/Src/gpio_i2c.c:288:5:I2C_Master_Transmit	24	static

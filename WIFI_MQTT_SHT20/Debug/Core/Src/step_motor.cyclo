@@ -1,0 +1,3 @@
+step_motor.c:23:6:step_motor_control_8A	13
+step_motor.c:103:6:step_motor_start	2
+step_motor.c:115:6:step_motor_stop	1
